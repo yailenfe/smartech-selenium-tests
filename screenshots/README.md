@@ -1,0 +1,1 @@
+### Guardar las evidencias de fallos de las pruebas en imágenes
